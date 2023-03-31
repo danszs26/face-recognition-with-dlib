@@ -8,13 +8,13 @@ In this project, there are 2 types of face recognition applications and 1 type o
 ### 1. Face recognition using webcam.
 ### 2. Face recognition using a photo/image.
 
-Before performing the encoding process, make sure you create a special folder to store the facial images that will undergo the encoding/training process. In my case, the folder name I used was "wajah1". You can change the folder name as needed. Here is the folder structure:
+Before performing the encoding process, make sure you create a special folder to store the facial images that will undergo the encoding/training process. In my case, the folder name I used was ###"wajah1"###. You can change the folder name as needed. Here is the folder structure:
 
 ![image.png]( https://github.com/danszs26/face-recognition-with-dlib/blob/main/assets/folder_tree.png )
 
 You can use the folder structure according to the above folder tree.
 
-To access face_rec_webcam_default.py/face_rec_webcam_tuning.py, you need to run the encoding.npy script to obtain known_face_encoding.npy and known_face_names.npy, and then you can run face_rec_webcam_default.py.
+To access ###face_rec_webcam_default.py/face_rec_webcam_tuning.py###, you need to run the ###encoding.npy### script to obtain ###known_face_encoding.npy### and ###known_face_names.npy###, and then you can run ###face_rec_webcam_default.py.###
 
 You can run the above program by accessing main.py and adjusting it to your needs (you can choose to run face_rec_webcam_default.py/face_rec_webcam_tuning.py by changing the program code "from ... import FaceRecognition" on line 1).
 
