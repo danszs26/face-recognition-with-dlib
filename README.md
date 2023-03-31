@@ -10,7 +10,7 @@ In this project, there are 2 types of face recognition applications and 1 type o
 
 Before performing the encoding process, make sure you create a special folder to store the facial images that will undergo the encoding/training process. In my case, the folder name I used was "wajah1". You can change the folder name as needed. Here is the folder structure:
 
-![image.png](  )
+![image.png]( https://github.com/danszs26/face-recognition-with-dlib/blob/main/assets/folder_tree.png )
 
 You can use the folder structure according to the above folder tree.
 
