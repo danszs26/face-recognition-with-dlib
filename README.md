@@ -1,23 +1,16 @@
 # face-recognition-with-dlib
 face recognition with dlib (face_recognition) including face confidence and available to detect face in sub-directory
 
-# Here is the documentation:
+## Here is the documentation:
 
 In this project, there are 2 types of face recognition applications and 1 type of face detection.
 
-Face recognition using webcam.
-Face recognition using a photo/image.
+### 1. Face recognition using webcam.
+### 2. Face recognition using a photo/image.
+
 Before performing the encoding process, make sure you create a special folder to store the facial images that will undergo the encoding/training process. In my case, the folder name I used was "wajah1". You can change the folder name as needed. Here is the folder structure:
 
-|__wajah1
-|  |
-|__|
-|__|___person_name
-|__|
-|__|___person_name_01
-|__|
-|__|___person_name_...
-
+( {link gambar} )
 
 You can use the folder structure according to the above folder tree.
 
