@@ -24,6 +24,6 @@ Make sure you have added the photo that will be used for face recognition proces
 
 You can perform face detection using a webcam by running **detect_face.py**.
 
-##and this is the results :
+## and this is the results :
 ![resul1.jpg]( https://github.com/danszs26/face-recognition-with-dlib/blob/main/skenario01_Dani_05.jpg )
 ![result2.jpg]( https://github.com/danszs26/face-recognition-with-dlib/blob/main/akurasiUp_ageng_02.jpg )
